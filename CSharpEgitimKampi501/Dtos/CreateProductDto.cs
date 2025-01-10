@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi501.Dtos
 {
-    public class ResultProductDto
+    public class CreateProductDto
     {
         public int ProductId { get; set; }
         public string ProductName { get; set; }
